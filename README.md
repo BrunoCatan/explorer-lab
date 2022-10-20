@@ -43,7 +43,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 👨🏻‍💻 Deploy
 
-<a target="_blank" href="https://explorer-lab-theta-amber.vercel.app/">Click para acessar!</a>
+<a target="_blank" href="https://explorer-lab-theta-amber.vercel.app/">CLICK PARA ACESSAR!</a>
 
 ## :memo: Licença
 
@@ -51,7 +51,7 @@ Esse projeto está sob a licença MIT.
 
 ## 🙋🏻 Autor
 
-<a href="https://www.linkedin.com/in/brunocatan/" target="_blank">Bruno Catan</a>
+<a href="https://www.linkedin.com/in/brunocatan/" target="_blank">BRUNO CATAN</a>
 
 ## :earth_americas: &nbsp;<i>Onde me encontrar:</i>
 
