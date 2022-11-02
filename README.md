@@ -48,6 +48,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+---
+
 <div align="center">
   <h3> Developed by <a href="https://www.linkedin.com/in/brunocatan/">Bruno Catan</a> ☕</h3>
   <a href="https://www.linkedin.com/in/brunocatan/" target="_blank"><img src="https://img.icons8.com/ios-filled/30/C850F2/linkedin-circled--v1.png"></a>
